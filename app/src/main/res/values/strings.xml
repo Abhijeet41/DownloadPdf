@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DownloadPdf</string>
+    <string name="pdf_download_fail">Failed to Download PDF</string>
+    <string name="pdf_download_success">Pdf Downloaded Successfully</string>
+</resources>
